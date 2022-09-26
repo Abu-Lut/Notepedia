@@ -12,13 +12,7 @@
 4. Copy Note 
 5. Responsive Design
 
-### Desktop
-![image](https://user-images.githubusercontent.com/97851968/192284587-d1eb34ef-2a57-4655-9efa-9edc1f99878d.png)
-
-### Mobile
-
-![image](https://user-images.githubusercontent.com/97851968/192285673-46702257-c38a-4a52-9135-91f1204f7a54.png)
-
+![](https://github.com/neutr0n420/DN-Hackathon/blob/main/images/notepadAppFinal.gif)
 
 ## Tech Stack
  The project was completely made with HTML, CSS & JavaScript.
