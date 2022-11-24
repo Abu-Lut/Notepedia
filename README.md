@@ -37,5 +37,27 @@
 
 [vikas6779](https://github.com/vikas6779)
 
+## Resources Used
+
+* Vue
+ * https://www.youtube.com/watch?v=YrxBCBibVo0&list=PL4cUxeGkcC9hYYGbV60Vq3IXYNfDk8At1&ab_channel=TheNetNinja
+ * https://stackoverflow.com/questions/40707738/vuejs-accessing-a-method-from-another-method
+ * https://www.geeksforgeeks.org/how-to-put-a-responsive-clear-button-inside-html-input-text-field/
+ 
+* Nuxt
+ * https://www.youtube.com/watch?v=GBdO5myZNsQ&list=PL4cUxeGkcC9haQlqdCQyYmL_27TesCGPC&ab_channel=TheNetNinja
+
+* Node
+ * https://www.youtube.com/watch?v=344Zv2m9TYI&ab_channel=TheFullStackJunkie
+ * https://www.youtube.com/watch?v=98BzS5Oz5E4&list=PL4cUxeGkcC9iJ_KkrkBZWZRHVwnzLIoUE&ab_channel=TheNetNinja
+ * https://dmitripavlutin.com/check-if-object-has-property-javascript/
+
+* SQL
+ * https://www.youtube.com/watch?v=Cz3WcZLRaWc&ab_channel=Fireship
+ * https://www.geeksforgeeks.org/sql-query-to-insert-multiple-rows/
+
+* Validation
+ * https://vee-validate.logaretm.com/v4/
+
 
 
